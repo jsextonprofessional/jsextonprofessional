@@ -5,12 +5,20 @@
 - Prior to my time at Snap!, I consulted for VisionQuest Collective as a Frontend Engineer on projects for Dallas-based businesses and nonprofits - including Murl Bakes, Pilot Peer Assist, Bangkok Inn, Owlift (formerly ELI 5), and Katharos Fire. (2018-2021)
 - Most recently, I have gone independent, contracting for Frisco Web Agency, Shaddock Homes, and SummitTX Capital on a variety of projects spanning Software Engineering, UI/UX, and Design. (2025)
 
+## Tech + Tools
+- **_Typescript_** - My strongsuit is Typescript in all of its glory - React, Next.js, Node.js, Vue.js. I've certainly spent the most hours building with TS and have grown to prefer it over the past 3 years.
+- **_Ruby on Rails_** - Rails helped me realize how to have fun with code, and about the power of high level tooling - Hotwire, Turbo, Devise, Stimulus. I love how Rails allows for scaffolding out the building blocks of production ready applications in no time.
+- **_Python_** - My first love is Python with Django and/or Flask. Python is the what I was working with when coding `*clicked*` for me.
+- **_CoPilot_** - CoPilot is like wearing rocket boosters 🚀. It 10x's my coding speed and in turn allows me to scale problem solving to the next orders of magnitude.
+
 <!-- 
 ### Technology
 
 ### Values and Beliefs
 
 ### Mission -->
+
+<!-- VENN -->
 
 
 <!--
