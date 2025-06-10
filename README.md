@@ -1,10 +1,9 @@
 # Hi I'm Jacob Sexton. 🤠
 
 ## I'm a Software Engineer located on planet Earth. 🌎
-- `The Lion's Share of my professional experience has been spent working as a Full Stack Engineer in the FinTech/Fundraising space for Snap! Mobile, building products such as their transaction checkout funnel used to raise over $1B (Billion with a 🅱️) in donations for schools and sports teams. (2021-2024)`
-- `Prior to my time at Snap!, I consulted for VisionQuest Collective as a Frontend Engineer on projects for Dallas-based businesses and nonprofits - including Murl Bakes, Pilot Peer Assist, Bangkok Inn, Owlift (formerly ELI 5), and Katharos Fire. (2018-2021)`
-- <code style="color : greenyellow">Prior to my time at Snap!, I consulted for VisionQuest Collective as a Frontend Engineer on projects for Dallas-based businesses and nonprofits - including Murl Bakes, Pilot Peer Assist, Bangkok Inn, Owlift (formerly ELI 5), and Katharos Fire. (2018-2021)</code>
-- `Most recently, I have gone independent, contracting for Frisco Web Agency, Shaddock Homes, and SummitTX Capital on a variety of projects spanning Software Engineering, UI/UX, and Design. (2025)`
+- The Lion's Share of my professional experience has been spent working as a Full Stack Engineer in the FinTech/Fundraising space for Snap! Mobile, building products such as their transaction checkout funnel used to raise over $1B (Billion with a 🅱️) in donations for schools and sports teams. (2021-2024)
+- Prior to my time at Snap!, I consulted for VisionQuest Collective as a Frontend Engineer on projects for Dallas-based businesses and nonprofits - including Murl Bakes, Pilot Peer Assist, Bangkok Inn, Owlift (formerly ELI 5), and Katharos Fire. (2018-2021)
+- Most recently, I have gone independent, contracting for Frisco Web Agency, Shaddock Homes, and SummitTX Capital on a variety of projects spanning Software Engineering, UI/UX, and Design. (2025)
 
 <!-- 
 ### Technology
