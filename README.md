@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi. I'm Jacob Sexton.
+
+** I'm a Software Engineer located on planet Earth.**
+
+
 
 <!--
 **jsextonprofessional/jsextonprofessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
