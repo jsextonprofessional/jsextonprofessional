@@ -1,6 +1,6 @@
 ## Hi. I'm Jacob Sexton.
 
-** I'm a Software Engineer located on planet Earth.**
+**I'm a Software Engineer located on planet Earth.**
 
 
 
